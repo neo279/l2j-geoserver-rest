@@ -29,3 +29,7 @@ Use L2j GeoData &amp; Pathfinding over REST API
    }
 ]
 ```
+
+## Credits
+
+This project is heavily based on [L2J Server](https://www.l2jserver.com/) source code, whole GeoData logic was extracted and exposed via JSON REST API. I would like to thank to whole L2J Team to making this possible.
