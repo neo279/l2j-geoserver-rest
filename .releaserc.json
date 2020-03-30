@@ -9,6 +9,9 @@
           {
             "path": "target/l2jgeo-1.0-SNAPSHOT.jar",
             "name": "l2jgeo-<%= nextRelease.version %>.jar"
+          },
+          {
+            "path": "src/main/resources/config/geodata.properties"
           }
         ]
       }
