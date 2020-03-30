@@ -12,8 +12,8 @@
     </parent>
 
     <properties>
-        <maven.compiler.source>1.13</maven.compiler.source>
-        <maven.compiler.target>1.13</maven.compiler.target>
+        <maven.compiler.source>13</maven.compiler.source>
+        <maven.compiler.target>13</maven.compiler.target>
         <slf4jVersion>1.6.1</slf4jVersion>
         <l2j-server-geo-driver.version>2.6.1.0</l2j-server-geo-driver.version>
         <owner.version>1.0.10</owner.version>
