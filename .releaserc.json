@@ -8,7 +8,7 @@
         "assets": [
           {
             "path": "target/l2jgeo-1.0-SNAPSHOT.jar",
-            "label": "l2jgeo-<%= nextRelease %>.jar"
+            "name": "l2jgeo-<%= nextRelease.version %>.jar"
           }
         ]
       }
